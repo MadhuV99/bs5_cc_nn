@@ -1,0 +1,22 @@
+{
+  "name": "bs5_cc_nn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhuV99/bs5_cc_nn.git"
+  },
+  "author": "Madhu Vasudevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhuV99/bs5_cc_nn/issues"
+  },
+  "homepage": "https://github.com/MadhuV99/bs5_cc_nn#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
